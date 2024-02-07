@@ -1,0 +1,2 @@
+# Serial Dictatorship Algorythm
+ 
